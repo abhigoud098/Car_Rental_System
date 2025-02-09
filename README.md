@@ -1,3 +1,3 @@
 # Car_Rental_System
-A Car Rental System using a oops concept for small project this functionalities for pay a car rent and use a car for some days and you can simple return a car.
+A car rental system is a small project that includes all the pillars of OOP. This functionality allows users to pay for car rentals and use a car for several days, after which they can easily return it.
 
